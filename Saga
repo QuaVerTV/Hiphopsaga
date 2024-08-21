@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hip Hop Saga</title>
+</head>
+<body>
+    <h1>Welcome to the Hip Hop Saga</h1>
+
+    <!-- Hip Hop Saga Playlist 1 -->
+    <h2>Come and watch some old school videos with me</h2>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/xpVfcZ0ZcFM?si=Hq4gg9-s4uBKLQO7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+    <!-- Hip Hop Saga Playlist 2 -->
+    <h2>And here are some more</h2>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/NLZRYQMLDW4?si=zMz5i5gk8fCyXqtL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+    <!-- QuaVerTV Production -->
+    <h2>This has been a QuaVerTV production. Welcome to QuaVerTV</h2>
+    <div class='sk-ww-youtube-channel-videos' data-embed-id='25451817'></div>
+    <script src='https://widgets.sociablekit.com/youtube-channel-videos/widget.js' async defer></script>
+
+    <!-- Store Embed -->
+    <h2>Shop</h2>
+    <iframe style="border-radius:24px;border:none" src="https://embed.creator-spring.com/widget?slug=quaver-creations&per=20&currency=&page=1&layout=carousel-wide&theme=dark" title="QuaVerTV Merch Store powered by Spring" width="100%" height="420"></iframe>
+
+</body>
+</html>
